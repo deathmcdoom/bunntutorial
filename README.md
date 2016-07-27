@@ -1,2 +1,2 @@
-# bunntutorial
+# generic
 repo for tutorial
